@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "fuwari",
+	"name": "blog.noonomyen.com",
 	"main": "./dist/_worker.js/index.js",
 	"compatibility_date": "2025-04-02",
 	"compatibility_flags": ["nodejs_compat"],
@@ -14,7 +14,7 @@
 	"kv_namespaces": [
 		{
 			"binding": "KV_GITHUB_API_CACHE",
-			"id": "<id>"
+			"id": "00ac75cb20e94a47a83f3cf8e620f4c6"
 		}
 	],
 	"vars": {
