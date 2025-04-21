@@ -1,5 +1,7 @@
-import { subtle } from "node:crypto";
-import { TextEncoder } from "node:util";
+// biome-ignore lint/style/useNodejsImportProtocol: <explanation>
+import { subtle } from "crypto";
+// biome-ignore lint/style/useNodejsImportProtocol: <explanation>
+import { TextEncoder } from "util";
 
 const encoder = new TextEncoder();
 
