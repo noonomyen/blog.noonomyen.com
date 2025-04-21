@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "blog.noonomyen.com",
+	"name": "blog-noonomyen-com",
 	"main": "./dist/_worker.js/index.js",
 	"compatibility_date": "2025-04-02",
 	"compatibility_flags": ["nodejs_compat"],
