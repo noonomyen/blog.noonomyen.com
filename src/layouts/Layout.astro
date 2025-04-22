@@ -20,6 +20,9 @@ import type { Favicon } from "../types/config";
 import { url, pathsEqual } from "../utils/url-utils";
 import "katex/dist/katex.css";
 
+// FIXME: Temporary fix - using the banner as the og:image. Ideally, it should use the image specific to each post, but for now, this will do.
+import banner_image from "../assets/images/banner.jpeg";
+
 interface Props {
 	title?: string;
 	banner?: string;
@@ -87,6 +90,9 @@ const bannerOffset =
 		<meta property="og:site_name" content={siteConfig.title}>
 		<meta property="og:url" content={Astro.url}>
 		<meta property="og:title" content={pageTitle}>
+		{siteConfig.banner.enable && (
+			<meta property="og:image" content={banner_image.src} />
+		)}
 		<meta property="og:description" content={description || pageTitle}>
 		{setOGTypeArticle ? (
         <meta property="og:type" content="article" />
