@@ -3,6 +3,7 @@ title: SECPlayground Cybersplash CTF 2025 Writeup
 published: 2025-04-21
 description: "การแข่งขัน CTF หลังสงกรานต์ จัดโดย SECPlayground และ Sponsored โดย I-SECURE, Secure-D ในวันที่ 18/04/2025"
 image: "images/0.jpg"
+ogimage: "images/og-image.jpg"
 tags: ["Don't Know Everything Team", "SECPlayground", "Cybersplash CTF", "2025", "CTF Writeup"]
 category: "CTF Writeup"
 draft: false
@@ -38,6 +39,10 @@ lang: ""
   - **World War Encryption**
   - **Paddle Case**
   - **What is it**
+
+![og-image.jpg](images/og-image.jpg)
+
+_Sistine Fibel ดื่มing the Flags_
 
 ---
 
