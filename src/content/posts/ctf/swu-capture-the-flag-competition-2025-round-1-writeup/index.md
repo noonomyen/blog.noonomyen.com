@@ -1,7 +1,7 @@
 ---
 title: SWU Capture the Flag Competition 2025 Round 1 Writeup
 published: 2025-07-01
-description: "Writeup การแข่งขัน CTF (online) ในรอบแรกของทีม Don't Know Everything"
+description: "Writeup การแข่งขัน CTF (online) รอบแรก จัดโดย คณะวิศวกรรมศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ, ACIS Professional Center และ SECPlayground ในวันที่ 1/7/2025"
 image: "images/0.jpg"
 ogimage: "images/32.png"
 tags: ["Don't Know Everything Team", "SWU", "ACIS Professional Center", "SECPlayground", "2025", "CTF Writeup"]
@@ -9,6 +9,8 @@ category: "CTF Writeup"
 draft: false
 lang: ""
 ---
+
+Writeup การแข่งขัน CTF (online) รอบแรก จัดโดย คณะวิศวกรรมศาสตร์ มหาวิทยาลัยศรีนครินทรวิโรฒ, ACIS Professional Center และ SECPlayground ในวันที่ 1/7/2025
 
 **Don't Know Everything**'s first event of the year อืมมม เอาจริงนี้ก็พึ่งเปิดเทอมแหละ สำหรับงานนี้ก็ 3 คนเหมือนเดิมฮะ
 
@@ -69,6 +71,8 @@ lang: ""
   - Who will win the Premier League? [@willywotz](https://github.com/willywotz)
 
 คะแนน 50 100 200 300 ยกเว้น หมวดสุดท้าย 100 ทั้งสอง
+
+---
 
 # Lucky Numbers?
 
