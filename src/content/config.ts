@@ -1,10 +1,11 @@
 import { defineCollection, z } from "astro:content";
-import type { CollectionConfig, BaseSchema } from "astro/content/config";
 
 // Temporary fix: isolated declaration type checking error
 // The impact is that InferEntrySchema<"posts"> becomes unusable.
 
-const postsCollection: CollectionConfig<BaseSchema> = defineCollection({
+const postsCollection: import("astro/content/config").CollectionConfig<
+	import("astro/content/config").BaseSchema
+> = defineCollection({
 	schema: z.object({
 		title: z.string(),
 		published: z.date(),
@@ -22,7 +23,7 @@ const postsCollection: CollectionConfig<BaseSchema> = defineCollection({
 		prevSlug: z.string().default(""),
 		nextTitle: z.string().default(""),
 		nextSlug: z.string().default(""),
-	})
+	}),
 });
 
 export const collections: { posts: typeof postsCollection } = {
