@@ -2,7 +2,7 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "blog-noonomyen-com",
 	"main": "./dist/_worker.js/index.js",
-	"compatibility_date": "2025-04-02",
+	"compatibility_date": "2025-05-05",
 	"compatibility_flags": ["nodejs_compat"],
 	"assets": {
 		"binding": "ASSETS",
