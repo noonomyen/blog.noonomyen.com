@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 	// タグを集めるための Set の型を指定
 	const allTags = posts.reduce<Set<string>>((acc, post) => {
 		// biome-ignore lint/complexity/noForEach: <explanation>
-		post.data.tags.forEach((tag) => acc.add(tag));
+		post.data.tags.forEach((tag: string) => acc.add(tag));
 		return acc;
 	}, new Set());
 
