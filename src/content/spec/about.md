@@ -19,16 +19,16 @@ Achieved 2nd place
 Participated in the CTF competition and achieved 3rd place \
 Team: Hook Bot (randomly assigned)
 
-- **PSRU Cyber Hackathon #2 2024 (Senior Level)** \
-Achieved 1st place in the competition \
-Team: Don't Know Everything
-
 - **Thailand Cyber Top Talent 2024 (Senior Level)** \
 Advanced to the final round and ranked 6th place \
 Team: Don't Know Everything
 
 - **ICPC Thailand National Competition 2024** \
 Ranked 22nd place \
+Team: Don't Know Everything
+
+- **PSRU Cyber Hackathon #2 2024 (Senior Level)** \
+Achieved 1st place in the competition \
 Team: Don't Know Everything
 
 - **Computer Programming Competition at CS UBRU 2024** \
