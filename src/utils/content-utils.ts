@@ -1,8 +1,22 @@
 import { getCollection } from "astro:content";
+import type { InferEntrySchema, Render, RenderedContent } from "astro:content";
 import I18nKey from "@i18n/i18nKey";
 import { i18n } from "@i18n/translation";
 
-export async function getSortedPosts() {
+type __getSortedPostsType = Promise<
+	{
+		id: string;
+		render(): Render[".md"];
+		slug: string;
+		body: string;
+		collection: "posts";
+		data: InferEntrySchema<"posts">;
+		rendered?: RenderedContent;
+		filePath?: string;
+	}[]
+>;
+
+export async function getSortedPosts(): __getSortedPostsType {
 	const allBlogPosts = await getCollection("posts", ({ data }) => {
 		return import.meta.env.PROD ? data.draft !== true : true;
 	});

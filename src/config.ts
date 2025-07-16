@@ -76,8 +76,8 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Facebook",
 			icon: "fa6-brands:facebook",
-			url: "https://www.facebook.com/arthit.saikanok"
-		}
+			url: "https://www.facebook.com/arthit.saikanok",
+		},
 	],
 };
 

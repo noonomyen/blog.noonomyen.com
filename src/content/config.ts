@@ -1,6 +1,7 @@
 import { defineCollection, z } from "astro:content";
+import type { BaseSchema, CollectionConfig } from "astro:content";
 
-const postsCollection = defineCollection({
+const postsCollectionSchema: BaseSchema = {
 	schema: z.object({
 		title: z.string(),
 		published: z.date(),
@@ -19,7 +20,11 @@ const postsCollection = defineCollection({
 		nextTitle: z.string().default(""),
 		nextSlug: z.string().default(""),
 	}),
-});
-export const collections = {
+};
+
+const postsCollection: CollectionConfig<typeof postsCollectionSchema> =
+	defineCollection(postsCollectionSchema);
+
+export const collections: Record<string, typeof postsCollection> = {
 	posts: postsCollection,
 };
