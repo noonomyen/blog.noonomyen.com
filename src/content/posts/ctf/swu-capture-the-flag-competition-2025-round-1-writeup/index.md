@@ -18,7 +18,7 @@ Writeup การแข่งขัน CTF (online) รอบแรก จัด
 - [@c0ffeeOverdose](https://github.com/c0ffeeOverdose) - [Blog](https://blog.c0ffeeoverdose.xyz/posts/ctf/swu-capture-the-flag-competition-2025)
 - [@willywotz](https://github.com/willywotz)
 
-แน่นอน ผมช้าเช่นเคย... ด้วยอานิสงของคุณพรี่ [@willywotz](https://github.com/willywotz) เราเลยได้อันดับที่ 8
+แน่นอน ผมช้าเช่นเคย... ด้วยอานิสงส์ของคุณพรี่ [@willywotz](https://github.com/willywotz) เราเลยได้อันดับที่ 8
 
 ![25.png](./images/25.png)
 
