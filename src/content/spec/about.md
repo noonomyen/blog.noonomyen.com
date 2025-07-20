@@ -42,6 +42,10 @@ Team: Don't Know Everything
 Achieved 1st place \
 Team: Don't Know Everything
 
+- **NCSA CTF Boot Camp 2025 (4th Generation)** \
+Achieved 2nd place and was awarded MVP
+Team: Sn!ff&Sp00f (randomly assigned)
+
 ### Open Level
 
 - **Cyber Range Thailand 2024** \
