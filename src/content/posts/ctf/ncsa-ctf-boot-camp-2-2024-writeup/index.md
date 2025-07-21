@@ -3,7 +3,7 @@ title: NCSA CTF Boot Camp 2024 2 Writeup
 published: 2024-09-19
 description: "Writeup of the team and solutions posted post-event"
 image: ""
-tags: ["NCSA CTF Boot Camp", "2024", "CTF Writeup"]
+tags: ["NCSA CTF Boot Camp", "2024", "CTF Writeup", "Randomly Assigned Team"]
 category: "CTF Writeup"
 draft: false
 lang: ""
