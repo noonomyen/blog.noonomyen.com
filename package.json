@@ -29,7 +29,7 @@
 		"@iconify-json/fa6-solid": "^1.2.4",
 		"@iconify-json/material-symbols": "^1.2.30",
 		"@iconify/svelte": "^4.2.0",
-		"@swup/astro": "^1.6.0",
+		"@swup/astro": "^1.7.0",
 		"@tailwindcss/typography": "^0.5.16",
 		"astro": "5.12.3",
 		"astro-compress": "^2.3.8",
@@ -63,7 +63,7 @@
 	"devDependencies": {
 		"@astrojs/ts-plugin": "^1.10.4",
 		"@biomejs/biome": "1.9.4",
-		"@cloudflare/workers-types": "^4.20250722.0",
+		"@cloudflare/workers-types": "^4.20250724.0",
 		"@rollup/plugin-yaml": "^4.1.2",
 		"@types/markdown-it": "^14.1.2",
 		"@types/mdast": "^4.0.4",
