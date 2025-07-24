@@ -71,7 +71,7 @@
 		"@types/sanitize-html": "^2.16.0",
 		"postcss-import": "^16.1.1",
 		"postcss-nesting": "^13.0.2",
-		"wrangler": "^4.25.1"
+		"wrangler": "^4.26.0"
 	},
 	"packageManager": "pnpm@10.13.1"
 }
