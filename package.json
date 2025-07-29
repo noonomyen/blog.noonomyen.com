@@ -19,7 +19,7 @@
 		"@astrojs/check": "^0.9.4",
 		"@astrojs/cloudflare": "^12.6.0",
 		"@astrojs/rss": "^4.0.12",
-		"@astrojs/sitemap": "^3.4.1",
+		"@astrojs/sitemap": "^3.4.2",
 		"@astrojs/svelte": "7.1.0",
 		"@astrojs/tailwind": "^6.0.2",
 		"@fontsource-variable/jetbrains-mono": "^5.2.6",
@@ -31,7 +31,7 @@
 		"@iconify/svelte": "^4.2.0",
 		"@swup/astro": "^1.7.0",
 		"@tailwindcss/typography": "^0.5.16",
-		"astro": "5.12.3",
+		"astro": "5.12.5",
 		"astro-compress": "^2.3.8",
 		"astro-icon": "^1.1.5",
 		"dotenv": "^16.6.1",
@@ -71,7 +71,7 @@
 		"@types/sanitize-html": "^2.16.0",
 		"postcss-import": "^16.1.1",
 		"postcss-nesting": "^13.0.2",
-		"wrangler": "^4.26.0"
+		"wrangler": "^4.26.1"
 	},
 	"packageManager": "pnpm@10.13.1"
 }
