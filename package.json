@@ -55,23 +55,23 @@
 		"sanitize-html": "^2.17.0",
 		"sharp": "^0.34.3",
 		"stylus": "^0.64.0",
-		"svelte": "^5.36.16",
+		"svelte": "^5.37.1",
 		"tailwindcss": "^3.4.17",
-		"typescript": "^5.8.3",
+		"typescript": "^5.9.2",
 		"unist-util-visit": "^5.0.0"
 	},
 	"devDependencies": {
 		"@astrojs/ts-plugin": "^1.10.4",
 		"@biomejs/biome": "1.9.4",
-		"@cloudflare/workers-types": "^4.20250725.0",
+		"@cloudflare/workers-types": "^4.20250731.0",
 		"@rollup/plugin-yaml": "^4.1.2",
 		"@types/markdown-it": "^14.1.2",
 		"@types/mdast": "^4.0.4",
-		"@types/node": "^22.16.5",
+		"@types/node": "^22.17.0",
 		"@types/sanitize-html": "^2.16.0",
 		"postcss-import": "^16.1.1",
 		"postcss-nesting": "^13.0.2",
-		"wrangler": "^4.26.0"
+		"wrangler": "^4.27.0"
 	},
 	"packageManager": "pnpm@10.13.1"
 }
