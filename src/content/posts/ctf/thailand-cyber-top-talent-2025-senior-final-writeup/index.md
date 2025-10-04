@@ -212,13 +212,6 @@ _Flag{MD5()}_
 
 _ผู้เล่นจะได้รับมอบหมายให้ทำการค้นหาช่องโหว่บนเป้าหมายที่กำหนด รวมถึงการทดสอบเจาะระบบเพื่อเข้าถึง Shell และค้นหาข้อมูลสำคัญบนเครื่อง (User Flag) และ (Root Flag)_
 
-# Red-31 - Client Side Logic
-
-_192.168.68.128,10.10.10.15_ \
-_Flag{MD5()}_
-
-**Solved by: [@c0ffeeOverdose](https://github.com/c0ffeeOverdose)**
-
 # Red-33 - Internal E-Learning
 
 _10.10.10.5_ \
