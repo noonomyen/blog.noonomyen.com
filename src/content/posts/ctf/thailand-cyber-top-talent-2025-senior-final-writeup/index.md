@@ -412,11 +412,6 @@ _Flag{MD5()}_
 
 ![9.png](./images/9.png)
 
-- 11 - Echo of the Coli
-- 12 - Whispers in the Path
-- 13 - When the Bottle Is Empty
-- 14 - The Voice That Wasn't There
-
 # Blue-21 First Entry
 
 _จากการที่ Attacker ได้ทำการ enumeration และทำการโจมตีโดยทีม IR คาดว่าอาจเกิดจากการรั่วไหลของ Credential ตั้งแต่เริ่ม_
