@@ -46,6 +46,13 @@ Team: Don't Know Everything
 Achieved 2nd place and was awarded MVP \
 Team: Sn!ff&Sp00f (randomly assigned)
 
+- **Thailand Cyber Top Talent 2025 (Senior Level)** \
+Achieved 1st place \
+Team: Don't Know Everything
+
+- **Cyber SEA Game 2025** \
+Represented Thailand, selected through Thailand Cyber Top Talent 2025
+
 ### Open Level
 
 - **Cyber Range Thailand 2024** \
