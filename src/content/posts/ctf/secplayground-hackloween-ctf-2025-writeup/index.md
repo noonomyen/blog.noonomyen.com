@@ -3,7 +3,7 @@ title: SECPlayground Hackloween CTF 2025 Writeup
 published: 2025-11-14
 description: "Writeup ทีม Don't Know Everything ในการแข่งขัน CTF ในวัน Halloween จัดโดย SECPlayground"
 image: "images/77.png"
-og: "images/0.png"
+ogimage: "images/0.png"
 tags: ["Don't Know Everything Team", "SECPlayground", "Hackloween CTF", "2025", "CTF Writeup"]
 category: "CTF Writeup"
 draft: false
