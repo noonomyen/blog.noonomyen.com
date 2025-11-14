@@ -23,6 +23,8 @@ Team: Hook Bot (randomly assigned)
 Advanced to the final round and ranked 6th place \
 Team: Don't Know Everything
 
+- **STDiO CTF 2024**
+
 - **ICPC Thailand National Competition 2024** \
 Ranked 22nd place \
 Team: Don't Know Everything
@@ -53,6 +55,9 @@ Team: Don't Know Everything
 - **Cyber SEA Game 2025** \
 Represented Thailand, selected through Thailand Cyber Top Talent 2025
 
+- **STDiO CTF 2025** \
+Ranked 9th place (Individual)
+
 ### Open Level
 
 - **Cyber Range Thailand 2024** \
@@ -69,6 +74,10 @@ Team: Don't Know Everything
 
 - **SECPlayground Cybersplash CTF 2025** \
 Ranked 23rd place \
+Team: Don't Know Everything
+
+- **SECPlayground Hackloween CTF 2025** \
+Ranked 7th place \
 Team: Don't Know Everything
 
 ### High School Level
@@ -89,6 +98,7 @@ Team members who have participated:
 - [@c0ffeeOverdose](https://github.com/c0ffeeOverdose)
 - [@FoxZFox](https://github.com/FoxZFox)
 - [@willywotz](https://github.com/willywotz)
+- [@PaiClover](https://github.com/paiclover)
 
 I'm genuinely proud of this team name. While we've already made it to national-level competitions, I hope one day we can break into the top ranks.
 
