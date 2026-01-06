@@ -1,7 +1,7 @@
 ---
 title: NCSA Hack the Scammer CTF 2025 Writeup
 published: 2025-12-14
-description: "Writeup of noonomyen"
+description: "Writeup ทีม Don't Know Everything ในการแข่งขัน NCSA Hack the Scammer CTF 2025"
 image: "images/1.png"
 ogimage: "images/0.png"
 tags: ["Don't Know Everything Team", "NCSA Hack the Scammer CTF", "2025", "CTF Writeup"]
