@@ -1,16 +1,11 @@
 # noonomyen - blog
 
-[blog.noonomyen.com](https://blog.noonomyen.com)
+Moved to [noonomyen/noonomyen-blog](https://github.com/noonomyen/noonomyen-blog)
 
 ## Upstream
 
 - [saicaca/fuwari](https://github.com/saicaca/fuwari)
 - [noonomyen/fuwari-cf](https://github.com/noonomyen/fuwari-cf)
-
-## Config
-
-- Build system version: `3`
-- Runtime compatibility date: `May 5, 2025`
 
 ## Content License
 
